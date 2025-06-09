@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Adithya Nayak 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Frontend+Developer;ML+Beginner;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Frontend+Developer;Tech+Nerd;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 📈 Contribution Snake:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaNayak18/AdithyaNayak18/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AdithyaNayak18/AdithyaNayak18/snake/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -92,9 +92,6 @@
 </p>
 
 ---
-
-
-<img src="https://raw.githubusercontent.com/AdithyaNayak18/AdithyaNayak18/output/github-contribution-grid-snake.svg" />
 
 
 ### ⚡ Fun Fact:
