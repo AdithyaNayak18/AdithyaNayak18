@@ -96,3 +96,6 @@
 ### ⚡ Fun Fact:
 ```text
 I break things to understand how they work, and then build them better, sometimes  🧠
+
+
+<img src="https://raw.githubusercontent.com/AdithyaNayak18/AdithyaNayak18/output/github-contribution-grid-snake.svg" />
