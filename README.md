@@ -1,52 +1,98 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi there, I'm Adithya Nayak 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Frontend+Developer;ML+Beginner;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me:
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🎓 Computer Science Engineering Student  
+- 🔐 Passionate about Cybersecurity & Ethical Hacking  
+- 🛠 Building: Secure Chat App 🔒  
+- 🤖 Exploring AI/ML and system security  
+- 💬 Always curious, always learning  
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 🌐 Connect with me:
 
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/adithya-nayak-147320297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/AdithyaNayak/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode"></a>
+  <a href="nayak.adithya18@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🧰 Languages & Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Operating Systems:
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaNayak18&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaNayak18&layout=compact&theme=radical" height="200"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaNayak18&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Contribution Snake:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdithyaNayak18/AdithyaNayak18/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🔥 Streak Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdithyaNayak18&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 👀 Visitors:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdithyaNayak18&label=Profile%20views&color=blue&style=flat" alt="AdithyaNayak18" />
+</p>
+
+---
+
+### ⚡ Fun Fact:
+```text
+I break things to understand how they work, and then build them better, sometimes  🧠
