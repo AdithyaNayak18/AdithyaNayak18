@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,react,flask,mongodb,mysql,typescript,figma,canva" />
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-306998?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-CC0033?style=flat&logoColor=white" />
+  
 </p>
 
 ---
