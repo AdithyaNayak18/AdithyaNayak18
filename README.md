@@ -90,6 +90,15 @@
 </p>
 
 ---
+## 📊 LeetCode Prowess
+
+<div align="center">
+  <a href="https://leetcode.com/u/AdithyaNayak/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AdithyaNayak?theme=dark&font=Fira%20Code&ext=activity,heatmap&border=0&radius=10&height=350" alt="Adithya Nayak's LeetCode Stats & Activity"/>
+  </a>
+</div>
+---
+
 
 ### 👀 Visitors:
 
